@@ -1,0 +1,50 @@
+{
+  "manifest_version": 2,
+  "name": "Learn Me",
+  "description": "Pick up words from text and subtitles files to learn them.",
+  "version": "1.0",
+
+  "icons": {
+    "128": "learnme.png"
+  },
+
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+    
+  "permissions": [
+    "declarativeContent"
+  ],  
+
+  "page_action" : {
+    "default_icon": "learnme.png",
+    "default_title" : "Learn Me"
+   },
+
+  "content_scripts": [
+    {
+      "matches": [ 
+        "file:///*/*.txt", 
+        "file:///*/*/*.txt", 
+        "file:///*/*/*/*.txt", 
+        "file:///*/*/*/*/*.txt",
+        "file:///*/*/*/*/*/*.txt",
+        "file:///*/*/*/*/*/*/*.txt",
+        "file:///*/*/*/*/*/*/*/*.txt",
+        "file:///*/*/*/*/*/*/*/*/*.txt",
+        "file:///*/*/*/*/*/*/*/*/*/*.txt",
+        "file:///*/*.srt", 
+        "file:///*/*/*.srt", 
+        "file:///*/*/*/*.srt", 
+        "file:///*/*/*/*/*.srt",
+        "file:///*/*/*/*/*/*.srt",
+        "file:///*/*/*/*/*/*/*.srt",
+        "file:///*/*/*/*/*/*/*/*.srt",
+        "file:///*/*/*/*/*/*/*/*/*.srt",
+        "file:///*/*/*/*/*/*/*/*/*/*.srt"
+      ],
+      "js": [ "learnme.js" ]
+    }
+  ]
+}
