@@ -1,7 +1,7 @@
 ## LearnMe
 
 **LearnMe** is a free and easy-to-use extension for the Google Chrome and 
-Mozilla Firefox browsers that can help you to increase vocabulary of foreing 
+Mozilla Firefox browsers that can help you to increase vocabulary of foreign 
 language you learn.
 
 There is a good and funny way to improve your listening skills. It's about 
@@ -19,7 +19,7 @@ word that you don't know to learn it. And this extension can help you with that.
 
 Just open a file of text or subtitles (only SRT format is supported) in browser, 
 the extension's icon becomes active. You may see in the browser's address bar 
-something like this:
+something like that:
 
 ```
 file:///D:/movies/my_film.srt
@@ -32,4 +32,4 @@ all.
 
 You can also use my next free application **LearnWords** that was specially 
 designed for quick memorizing foreign words. You're welcome to provide me an 
-advice how would you like the apps to be improved.
+advice about how you would like the apps to be improved.
