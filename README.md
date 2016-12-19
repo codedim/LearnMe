@@ -1,7 +1,8 @@
 ## LearnMe
 
-**LearnMe** is a free extension for the Google Chrome and Mozilla Firefox 
-browsers that helps to learn foreing language vocabulary.
+**LearnMe** is a free and easy-to-use extension for the Google Chrome and 
+Mozilla Firefox browsers that can help you to increase vocabulary of foreing 
+language you learn.
 
 There is a good and funny way to improve your listening skills. It's about 
 watching movies in language you study. You can watch them with subtitles. 
@@ -26,7 +27,9 @@ file:///D:/movies/my_film.srt
 
 After that, click extension's icon at first time to prepare the text for 
 selecting of words. Pick up words you need to learn by clicking on them. And 
-click the icon at second time to get a list of words you've selected. That's all.
+click the icon at second time to get a list of words you've selected. That's 
+all.
 
-You can also use my next free application **LearnWords** that was specialy designed 
-for quick memorizing foreign words.
+You can also use my next free application **LearnWords** that was specially 
+designed for quick memorizing foreign words. You're welcome to provide me an 
+advice how would you like the apps to be improved.
